@@ -1,0 +1,115 @@
+body{
+    background-color:lemonchiffon;
+}
+
+h1,h2,h3,h4,h5{
+    text-align: center;
+    font-size: 30pt;
+    font-family:fantasy;
+    color:rgb(9, 29, 46);
+}
+
+
+
+/* .augs-kaste{
+    width:100px;
+    height:100px;
+    background-color:lightgreen;
+    position:absolute;
+    top:0px;
+    left:0px;
+    
+    
+  }
+  
+  .vid-kaste{
+    width:100px;
+    height:100px;
+    background-color:darkred;
+    position:absolute;
+    left:100px;
+    top:100px;
+   
+    
+  }
+  
+  .apaks-kaste{
+    width:100px;
+    height:100px;
+    background-color:royalblue;
+    position:absolute;
+    left:200px;
+    top:200px;
+   
+  } */
+
+
+  p{
+    font-family: 'Alkatra', cursive;
+    font-size: 20pt;
+    text-align: justify;
+    
+
+  }
+
+
+.bilde{
+  float:left;
+ 
+  margin: 10px 15px;
+  
+}
+
+.izcelts{
+  font-weight: bold;
+  
+}
+
+.bilde2{
+  float:right;
+ 
+  margin: 10px 15px;
+}
+
+.kopa{
+  margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+a{
+  font-size:20px;
+  margin-left: 20px;
+  color: black;
+}
+
+#sarkans{
+  color:red;
+}
+
+#zals{
+  color:lime;
+}
+
+
+table, th, td {
+  border: 1px solid;
+  /* border-collapse: collapse; */
+}
+table {
+  width: 100%;
+}
+
+
+ul {
+  list-style-type: square;
+  
+ 
+  }
+
+
+ol {
+  list-style-type: lower-alpha;
+  }
+
+
